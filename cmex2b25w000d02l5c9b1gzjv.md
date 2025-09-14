@@ -26,7 +26,7 @@ In this post, let’s look at some of the most common hidden costs in data pipel
 * For predictable workloads: switch to **Reserved Instances** or **Savings Plans**.
     
 
-We moved our live inference endpoints, model training VMs, Container Apps, Container Instances, and eligible databases onto **reservations and savings plans**.
+We moved our live inference endpoints, model training VMs, Container Apps, Container Instances, and eligible databases to reservations and savings plans.
 
 This immediately lowered our baseline compute costs without changing a single line of pipeline code.
 
@@ -72,7 +72,7 @@ Daily ETL jobs failing due to schema drift, retrying 10+ times before alerting a
 
 * Automate teardown of non-prod resources after inactivity.
     
-* Apply **tags and budgets** to all environments.
+* Apply tags and budgets to all environments.
     
 * Until automated clean-up scheduled jobs are not setup, manually review prediocally
     
@@ -81,11 +81,11 @@ Daily ETL jobs failing due to schema drift, retrying 10+ times before alerting a
 
 ## Bringing in FinOps Practices
 
-Managing costs is not just about cutting spend — it is about **visibility and accountability**.
+Managing costs is not just about cutting spend, it is about visibility and accountability.
 
-* Use **tags** to attribute costs by project, team, and environment - we are still not at the top of this game.
+* Use tags to attribute costs by project, team, and environment - we are still not at the top of this game.
     
-* Set up **budget alerts** in Azure Cost Management (or AWS Budgets, GCP Billing) - we have one setup for each development and production enviroment.
+* Set up budget alerts in Azure Cost Management (or AWS Budgets, GCP Billing) - we have one setup for each development and production enviroment.
     
 * Review spend regularly with the team, cost awareness is part of engineering.
     
