@@ -2,7 +2,7 @@
 title: "From Text to Charts: Generative UI using assistant-ui"
 seoTitle: "How to Build Generative UI with assistant-ui"
 seoDescription: "Build Generative UI with Assistant UI to turn natural language queries into charts using MCP, makeAssistantTool, and makeAssistantToolUI."
-datePublished: Mon Jul 07 2025 14:35:20 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-07-07T14:35:20.607Z
 cuid: cmct7duhr001f02la04ich94z
 slug: from-text-to-charts-generative-ui-using-assistant-ui
 tags: data-visualization, generative-ui, llm-tools, assistant-ui
