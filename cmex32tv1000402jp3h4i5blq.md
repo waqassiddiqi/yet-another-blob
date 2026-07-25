@@ -1,6 +1,6 @@
 ---
 title: "Why Most Data Teams Don’t Need Real-Time Streaming"
-datePublished: Fri Aug 29 2025 17:05:17 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-29T17:05:17.485Z
 cuid: cmex32tv1000402jp3h4i5blq
 slug: why-most-data-teams-dont-need-real-time-streaming
 tags: streaming, data-architecture, data-engineering, batch-processing, batchprocessing
