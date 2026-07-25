@@ -1,6 +1,6 @@
 ---
 title: "Shifting Security Left in Data Platforms: Docker Image Scanning with Trivy"
-datePublished: Fri Aug 29 2025 15:53:45 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-29T15:53:45.733Z
 cuid: cmex0iubp000002jm3y8z2iux
 slug: shifting-security-left-in-data-platforms-docker-image-scanning-with-trivy
 tags: docker, devsecops, dataengineering, trivy, cloud-security, githubaction
