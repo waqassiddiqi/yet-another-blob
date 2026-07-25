@@ -1,6 +1,6 @@
 ---
 title: "The Hidden Costs of Data Pipelines (and How to Control Them)"
-datePublished: Fri Aug 29 2025 16:43:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-08-29T16:43:41.876Z
 cuid: cmex2b25w000d02l5c9b1gzjv
 slug: the-hidden-costs-of-data-pipelines-and-how-to-control-them
 tags: azure, dataengineering, databricks, finops, cloud-cost-optimization
